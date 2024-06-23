@@ -1,0 +1,10 @@
+.btn{
+    background-color: black;
+    color: orange;
+    margin-top: 20px;
+    width: 200px;
+    font-size: x-large;
+    border-radius: 10px;
+    border: 3px solid orangered;
+    padding: 20px;
+}

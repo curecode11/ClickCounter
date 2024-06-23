@@ -1,0 +1,8 @@
+.h1{
+    background-color: black;
+    z-index: 900;
+    font-size: 100px;
+    font-style: oblique;
+    font-weight: 600;
+    color:wheat ;
+}
